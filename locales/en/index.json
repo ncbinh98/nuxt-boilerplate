@@ -1,0 +1,8 @@
+{
+    "home": {
+        "title": "Thanks for using BN boilerplate Nuxt-vuetify-axios",
+        "welcome": "Welcome",
+        "inspire": "Inspire",
+        "test": "Test route"
+    }
+}

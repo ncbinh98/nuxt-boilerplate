@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sources": ["../../src/locale/en.ts"],
+  "names": [],
+  "mappings": ";;;;;kBAAe;AACb,kBAAc;AACZ,yBAAiB,iBADL;AAEZ,wBAAgB,KAFJ;AAGZ,kBAAU,gBAHE;AAIZ,uBAAe,2BAJH;AAKZ,kBAAU,WALE;AAMZ,kBAAU;AANE,KADD;AASb,eAAW;AACT,yBAAiB;AADR,KATE;AAYb,gBAAY;AAZC,C",
+  "sourcesContent": [
+    "export default {\n  dataIterator: {\n    rowsPerPageText: 'Mục từng trang:',\n    rowsPerPageAll: 'Tất cả',\n    pageText: '{0}-{1} của {2}',\n    noResultsText: 'Không tìm thấy kết quả',\n    nextPage: 'Trang kế',\n    prevPage: 'Trang trước'\n  },\n  dataTable: {\n    rowsPerPageText: 'Hàng từng trang:'\n  },\n  noDataText: 'Không có dữ liệu'\n}\n"
+  ],
+  "sourceRoot": ""
+}

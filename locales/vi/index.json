@@ -1,0 +1,8 @@
+{
+    "home": {
+        "title": "Cám ơn bạn đã sử dụng BN boilerplate Nuxt-vuetify-axios",
+        "welcome": "Chào mừng",
+        "inspire": "Cảm hứng",
+        "test": "Kiểm tra route"
+    }
+}
