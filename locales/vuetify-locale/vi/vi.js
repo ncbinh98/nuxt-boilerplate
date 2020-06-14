@@ -1,8 +1,8 @@
-"use strict";
+"use strict"
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
-});
+  value: true,
+})
 exports.default = {
   dataIterator: {
     rowsPerPageText: "Mục từng trang:",
@@ -10,11 +10,11 @@ exports.default = {
     pageText: "{0}-{1} của {2}",
     noResultsText: "Không tìm thấy kết quả",
     nextPage: "Trang kế",
-    prevPage: "Trang trước"
+    prevPage: "Trang trước",
   },
   dataTable: {
-    rowsPerPageText: "Hàng từng trang:"
+    rowsPerPageText: "Hàng từng trang:",
   },
-  noDataText: "Không có dữ liệu"
-};
+  noDataText: "Không có dữ liệu",
+}
 //# sourceMappingURL=en.js.map

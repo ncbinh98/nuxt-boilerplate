@@ -1,11 +1,11 @@
 <template>
-    <div>
-        {{ $t("home.test") }}
-    </div>
+  <div>
+    {{ $t("home.test") }}
+  </div>
 </template>
 
 <script>
-export default {};
+export default {}
 </script>
 
 <style scoped></style>
