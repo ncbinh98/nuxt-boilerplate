@@ -27,6 +27,16 @@ import Logo from "~/components/Logo.vue";
 import VuetifyLogo from "~/components/VuetifyLogo.vue";
 import { mapGetters } from "vuex";
 export default {
+    //Helmet
+    head() {
+        return {
+            title: "My helmet title here",
+            meta: [
+                // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+                { hid: "description", name: "description", content: "My custom description" }
+            ]
+        };
+    },
     components: {
         Logo,
         VuetifyLogo
